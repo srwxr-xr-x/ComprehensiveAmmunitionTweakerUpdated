@@ -1,0 +1,35 @@
+{
+	"patron_30x29_vog_30":
+    {
+        "Enabled": false,
+		"StackMaxSize": 60,
+        "BulletID": ["5d70e500a4b9364de70d38ce"],
+        "Weight": 0.35,
+		"InitialSpeed": 185,
+        "Damage": 199,
+		"ammoAccr": 0,
+		"ammoRec": 0,
+		"PenetrationPower": 1,
+		"ProjectileCount": 1,
+        "MisfireChance": 0.01,
+		"MinFragmentsCount": 1,
+		"MaxFragmentsCount": 1,
+		"FragmentationChance": 0,
+		"Tracer": false,
+		"TracerColor": "red",
+		"ArmorDamage": 29,
+		"StaminaBurnPerDamage": 0.2592,
+		"HeavyBleedingDelta": 0,
+		"LightBleedingDelta": 0,
+		"MalfMisfireChance": 0,
+		"DurabilityBurnModificator": 1,
+		"HeatFactor": 1,
+		"MalfFeedChance": 0,
+		"FragmentsCount": 0,
+		"FuzeArmTimeSec": 0.1,
+		"ExplosionStrength": 100,
+		"MinExplosionDistance": 4,
+		"MaxExplosionDistance": 10,
+		"Blinding": false
+    }
+}

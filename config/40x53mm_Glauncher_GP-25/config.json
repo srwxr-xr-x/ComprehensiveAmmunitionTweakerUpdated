@@ -1,0 +1,35 @@
+{
+	"patron_40_VOG_25":
+    {
+        "Enabled": false,
+		"StackMaxSize": 60,
+        "BulletID": ["5656eb674bdc2d35148b457c"],
+        "Weight": 0.255,
+		"InitialSpeed": 76,
+        "Damage": 199,
+		"ammoAccr": 0,
+		"ammoRec": 0,
+		"PenetrationPower": 0,
+		"ProjectileCount": 1,
+        "MisfireChance": 0.01,
+		"MinFragmentsCount": 1,
+		"MaxFragmentsCount": 1,
+		"FragmentationChance": 0,
+		"Tracer": false,
+		"TracerColor": "red",
+		"ArmorDamage": 68,
+		"StaminaBurnPerDamage": 0.144,
+		"HeavyBleedingDelta": 0,
+		"LightBleedingDelta": 0,
+		"MalfMisfireChance": 0,
+		"DurabilityBurnModificator": 1,
+		"HeatFactor": 1,
+		"MalfFeedChance": 0,
+		"FragmentsCount": 15,
+		"FuzeArmTimeSec": 0.05,
+		"ExplosionStrength": 80,
+		"MinExplosionDistance": 1,
+		"MaxExplosionDistance": 4.5,
+		"Blinding": false
+    }
+}
