@@ -1,5 +1,5 @@
 {
-    "Enabled": false,
+    "Enabled": true,
 	"StackMaxSize": 60,
     "Weight": 0.01,
     "InitialSpeed": 1000,
