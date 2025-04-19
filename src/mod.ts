@@ -351,7 +351,7 @@ class ComprehensiveAmmunitionTweaker implements IPostDBLoadMod
             if (tyrCartBlinding === false) 
             {
                 const TyrAllInOne: NewItemFromCloneDetails = {
-                    itemTplToClone: "5fc382a9d724d907e2077dab",
+                    itemTplToClone: "5e81f423763d9f754677bf2e",
                     overrideProperties: {
                         BackgroundColor: "violet",
 						StackMaxSize: TyrianAllInOneCartridge.StackMaxSize,
@@ -404,7 +404,7 @@ class ComprehensiveAmmunitionTweaker implements IPostDBLoadMod
             if (tyrCartBlinding === true) 
             {
                 const TyrAllInOne: NewItemFromCloneDetails = {
-                    itemTplToClone: "5fc382a9d724d907e2077dab",
+                    itemTplToClone: "5e81f423763d9f754677bf2e",
                     overrideProperties: {
                         BackgroundColor: "violet",
 						StackMaxSize: TyrianAllInOneCartridge.StackMaxSize,
